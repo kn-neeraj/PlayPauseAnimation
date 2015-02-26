@@ -1,6 +1,8 @@
 # PlayPauseAnimation
 PlayPause animation based on MIchael villar's motions experiments - http://www.michaelvillar.com/motion
 
+![sample project gif](https://github.com/kNeerajPro/PlayPauseAnimation/blob/master/Gifs/Final-Gif.gif)
+
 ## Usage
 
 Wherever you want to use this view just create and give proper frame.
