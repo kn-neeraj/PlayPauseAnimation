@@ -37,7 +37,7 @@ class PlayPauseView: UIView {
     
     func didTapView() {
         // fire animation on the basis of state.
-        performAnimation(currentState, duration:0.3, delay: 0.0)
+        performAnimation(currentState, duration:0.5, delay: 0.0)
         
         // tell the delegate that button is tapped.
     }
